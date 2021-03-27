@@ -144,15 +144,15 @@ jhipster:
     from: coopcycle@localhost
   swagger:
     default-include-pattern: /api/.*
-    title: coopcycle API
-    description: coopcycle API documentation
+    title: coopcycle API DM Jhipster GL
+    description: coopcycle API documentation DM Jhipster GL
     version: 0.0.1
-    terms-of-service-url:
-    contact-name:
-    contact-url:
-    contact-email:
-    license: unlicensed
-    license-url:
+    terms-of-service-url: https://www.tos.com//
+    contact-name: John Doe
+    contact-url: https://www.john-doe.com/
+    contact-email: john-doe@gmail.com
+    license: licensed
+    license-url: https://www.licensed.jhipster.com/
 # ===================================================================
 # Application specific properties
 # Add your own application properties here, see the ApplicationProperties class
